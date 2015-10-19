@@ -1,2 +1,2 @@
 # NodeJSdao
-A simple dao file for use with Node
+A simple dao file for use with Node and MongoDB.
